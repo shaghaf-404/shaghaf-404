@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[url=https://postimg.cc/14yQXprL][img]https://i.postimg.cc/14yQXprL/142363-780562112-small-ezgif-com-video-to-gif-converter.gif[/img][/url]" alt="Cyber Banner" width="100%" />
+  <img src="<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3rvJL14J/142363-780562112-small-ezgif-com-video-to-gif-converter.gif' border='0' alt='142363-780562112-small-ezgif-com-video-to-gif-converter'/></a>" alt="Cyber Banner" width="100%" />
 </p>
 
 <h1 align="center"> Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
