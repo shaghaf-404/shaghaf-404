@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://i.postimg.cc/4xbgDFss/142363-780562112-small-ezgif-com-optimize.gif" width="100%" />
+  <img src="https://postimg.cc/QFtw5mFy" width="100%" />
 </p>
 
-<h1 align="center">🖐️ Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
+<h1 align="center"> Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
 <h3 align="center">💻 Cybersecurity | 🤖 AI | ⚙️ Embedded Systems</h3>
 
 ---
