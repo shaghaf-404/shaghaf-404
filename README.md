@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://your-image-link.png" alt="banner" width="100%" />
+</p>
 
-<!--
-**shaghaf-404/shaghaf-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Sheghaf Faraj 👋</h1>
 
-Here are some ideas to get you started:
+🎓 A passionate **Computer Science student** at **E-JUST**, with deep interest in **Cybersecurity**, **Embedded Systems**, and **Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 What I Do
+
+- ⚔️ I enjoy building **hands-on projects** that combine **offensive security** techniques with **real hardware** like ESP32.
+- 🤖 Experienced in:
+  - Machine Learning pipelines
+  - Vulnerability scanning
+  - Penetration testing
+
+---
+
+### 💡 Some of My Projects
+
+- 🛡️ **Wi-Fi Attack Simulation Platform**  
+  Built using **ESP32** & **Flask**, designed for **Red Team** training exercises.
+
+- 🧠 **Mental Health Chatbot**  
+  Created using **Natural Language Processing** and **fine-tuned GPT-2** on specialized **counseling datasets**.
+
+---
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/shaghaf-faraj/)
