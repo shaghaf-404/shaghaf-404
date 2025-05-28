@@ -2,7 +2,7 @@
   <img src="https://github.com/shaghaf-404/sheghaf-assets/blob/main/142363-780562112_small-ezgif.com-optimize.gif" alt="Cyber Banner" />
 </p>
 
-<h1 align="center"> Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
+<h1 align="center"> Hi, I Wanna <span style="color:#00f2ff">Hack You</span></h1>
 <h3 align="center">💻 Cybersecurity | 🤖 AI | ⚙️ Embedded Systems</h3>
 
 ---
