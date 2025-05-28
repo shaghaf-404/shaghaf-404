@@ -1,31 +1,62 @@
 <p align="center">
-  <img src="https://your-image-link.png" alt="banner" width="100%" />
+  <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvideos%2Fsearch%2Fhacking%2520background%2F&psig=AOvVaw3Iwy4z13BTC7eGpk3NPGyp&ust=1748552580647000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNivsMuIx40DFQAAAAAdAAAAABAL" width="100%" />
 </p>
 
-<h1 align="center">Hi, I’m Sheghaf Faraj 👋</h1>
-
-🎓 A passionate **Computer Science student** at **E-JUST**, with deep interest in **Cybersecurity**, **Embedded Systems**, and **Artificial Intelligence**.
-
----
-
-### 🔍 What I Do
-
-- ⚔️ I enjoy building **hands-on projects** that combine **offensive security** techniques with **real hardware** like ESP32.
-- 🤖 Experienced in:
-  - Machine Learning pipelines
-  - Vulnerability scanning
-  - Penetration testing
+<h1 align="center">🖐️ Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
+<h3 align="center">💻 Cybersecurity | 🤖 AI | ⚙️ Embedded Systems</h3>
 
 ---
 
-### 💡 Some of My Projects
+### 🧠 About Me
 
-- 🛡️ **Wi-Fi Attack Simulation Platform**  
-  Built using **ESP32** & **Flask**, designed for **Red Team** training exercises.
+🎓 I'm a **Computer Science** student at **E-JUST** with a passion for:  
+- 🛡️ **Cybersecurity** & Ethical Hacking  
+- 🤖 **Artificial Intelligence** & Machine Learning  
+- ⚙️ **Embedded Systems** with real hardware (ESP32, Arduino)
 
-- 🧠 **Mental Health Chatbot**  
-  Created using **Natural Language Processing** and **fine-tuned GPT-2** on specialized **counseling datasets**.
+I love building tools that blend hardware, software, and security into real-world hacks 🔧🔓
 
 ---
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/shaghaf-faraj/)
+### ⚔️ Projects & Highlights
+
+🚀 **Wi-Fi Attack Simulation Platform**  
+📡 Built using **ESP32** + **Flask** for simulating real **Red Team** wireless attacks  
+🎯 Purpose: Training & testing wireless security in controlled environments
+
+🧘‍♀️ **Mental Health Chatbot**  
+🧠 Powered by **NLP** + **fine-tuned GPT-2**  
+📈 Trained on real counseling datasets for detecting emotional patterns & providing supportive responses
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![GPT-2](https://img.shields.io/badge/GPT--2-AI-purple?style=for-the-badge)
+
+---
+
+### 🕶️ Fun Facts
+
+- 🔐 I enjoy **ethical hacking** and reverse engineering  
+- ⚡ I'm the type of person who **solders boards while training ML models**  
+- 🧩 I love breaking things to understand how they work
+
+---
+
+### 📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/shaghaf-faraj/">
+  <img src="https://img.shields.io/badge/LinkedIn-SheghafFaraj-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFEE&center=true&vCenter=true&width=435&lines=Hack+the+planet...;Always+learning...;Code%2C+Break%2C+Repeat" alt="Typing SVG" />
+</p>
+ 
