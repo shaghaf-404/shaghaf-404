@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[142363-780562112-small-ezgif-com-video-to-gif-converter.gif](https://postimg.cc/14yQXprL)" alt="Cyber Banner" />
+  <img src="[142363-780562112-small-ezgif-com-video-to-gif-converter.gif](https://postimg.cc/14yQXprL)" alt="Cyber Banner" >
 </p>
 
 <h1 align="center"> Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
