@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shagh-404/sheghaf-assets/main/142363-780562112_small-ezgif.com-optimize.gif" alt="Cyber Banner" />
+  <img src="https://raw.githubusercontent.com/shagh-404/sheghaf-assets/142363-780562112_small-ezgif.com-optimize.gif" alt="Cyber Banner" />
 </p>
 
 <h1 align="center"> Hi, I’m <span style="color:#00f2ff">Sheghaf Faraj</span></h1>
